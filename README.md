@@ -72,7 +72,7 @@ Set-Location EventLogAnalyzer
 Run the script in PowerShell:
 
 ```powershell
-.\EventLogAnalyzer.ps1
+. .\EventLogAnalyzer.ps1
 ```
 
 ## Contributing
